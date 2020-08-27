@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="spark_guigu_20200705" />
+    <profile name="Maven 2" modules="summer-framework">
+      <parameters>
+        <parameter value="-target:jvm-1.5" />
+      </parameters>
+    </profile>
+  </component>
+</project>
